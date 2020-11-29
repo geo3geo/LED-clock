@@ -10,7 +10,7 @@
    press th and sweep will restart.e button to increment hours. no press for 3 seconds causes hours LED to stop flashing and the minutes LED to flash, 
    press button to increment minutes. No press for 3 seconds causes end of exit mode and the sweep will restart.
    
-   The chimes version provides a colourful display on the hour and half hour for 20/10 seconds resp.
+   The chimes version also provides a colourful display on the hour and half hour for 20/10 seconds resp.
    Silent chimes!
    
    There are various clock facias on Google images so print out whichever takes your fancy or design your own!
