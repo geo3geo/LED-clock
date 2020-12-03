@@ -9,10 +9,26 @@
    Press the Setup button to enter setup mode, the sweep hand will stop, the hour led will flash, 
    press th and sweep will restart.e button to increment hours. no press for 3 seconds causes hours LED to stop flashing and the minutes LED to flash, 
    press button to increment minutes. No press for 3 seconds causes end of exit mode and the sweep will restart.
-   
-   The chimes version also provides a colourful display on the hour and half hour for 20/10 seconds resp.
-   Silent chimes!
-   
    There are various clock facias on Google images so print out whichever takes your fancy or design your own!
+   
+   Added 3 Dec 2020
+   ================
+   The chimes_sound version also provides a colourful display and hourly annunciation.   
+   
+   On the hour and half hour a LED pattern is displayed for 20 seconds
+   On the quarter hour a different pattern is displayed, for 10 seconds
+   
+   On the hour a 'chime' sequence is played, but this is inhibited at night
+   (defined by low detected light level) and a series of tones sounded according 
+   to the current hour. During the night these are very much shorter to make them less 
+   intrusive. For silent operation, simply unplug the sound generator unit! 
+
+   The sound generator used was an old earpiece of about 1K ohm. 
+   It was plugged into a 3.5mm audio jack wired to +5 and to the soundPin. 
+
+   The pushbutton connects bewteen setupPin and )v with a pullup resistor (10K-ish) 
+   bewteen soundPin and +5.
+   
+  
    
    
