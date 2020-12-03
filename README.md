@@ -11,6 +11,8 @@
    press button to increment minutes. No press for 3 seconds causes end of exit mode and the sweep will restart.
    There are various clock facias on Google images so print out whichever takes your fancy or design your own!
    
+   https://www.youtube.com/watch?v=hkU9chTgqK8
+   
    Added 3 Dec 2020
    ================
    The chimes_sound version also provides a colourful display and hourly annunciation.   
@@ -29,6 +31,7 @@
    The pushbutton connects bewteen setupPin and )v with a pullup resistor (10K-ish) 
    bewteen soundPin and +5.
    
+   https://www.youtube.com/watch?v=xTUISuY6ftM&feature=youtu.be
   
    
    
