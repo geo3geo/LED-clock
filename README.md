@@ -34,4 +34,9 @@
    https://www.youtube.com/watch?v=xTUISuY6ftM&feature=youtu.be
   
    
+   Added 9th Jan 2021
+   ==================
+   Software dated 22Dec uploaded. Minor improvements:
+   - the hourly tones are now split into groups of 3 so you don't need to count them!
+   - as the minutes pass the half hour the hour hand moves on by 1/24th of a revoloution.
    
